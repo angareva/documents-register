@@ -1,0 +1,13 @@
+{
+    "AWS_ACCESS_KEY_ID" : "AKIAT5JSFJJGETO37WTP",
+    "AWS_SECRET_ACCESS_KEY" : "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",
+    "AWS_REGION" : "EE. UU. Este (Ohio) us-east-2",
+
+    "S3_BUCKET_NAME" : "docregisterbucket",
+    "BASE_PATH_FILES" : "C:\\prueba_operaciones\\src\\docs",
+    "OUTPUT_FOLER" : "homonymous_addresses",
+    "DB_NAME" : "DB_adress.db",
+    "DB_PATH" : "C:\\prueba_operaciones\\src",
+    "API_KEY" : "AIzaSyDGH7IPMuNm6cGqSsMzwBcAKGcyoc9Kr1E",
+    "API_URL" : "https://maps.googleapis.com/maps/api/geocode/json"
+}
